@@ -1,0 +1,11 @@
+{
+"properties": {
+"@@odata.context": {
+"type": "string"
+},
+"value": {
+"type": "array"
+}
+},
+"type": "object"
+}
